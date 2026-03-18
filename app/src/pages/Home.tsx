@@ -233,7 +233,7 @@ export function Home() {
 
             <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-6">
               {[
-  { label: 'Years Experience', value: '65+' },
+  { label: 'Years Experience', value: '70+' },
   { label: 'Happy Customers', value: '50K+' },
   { label: 'Service Coverage', value: 'All Over India' },
   { label: 'Accuracy Rate', value: '99.9%' }

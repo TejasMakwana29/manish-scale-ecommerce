@@ -78,14 +78,14 @@ const badges = [
                 <h3 className="text-2xl font-bold">
                   <span className="text-blue-400">Manish</span> Scale
                 </h3>
-                <p className="text-xs text-gray-500 tracking-wider">PRECISION SINCE 1952</p>
+                <p className="text-xs text-gray-500 tracking-wider uppercase">Where trust carries weight</p>
               </div>
             </Link>
             <p className="text-gray-400 mb-6 leading-relaxed">
-              India's most trusted manufacturer and supplier of precision weighing scales 
-              since 1952. From micro jewelry scales to heavy-duty platforms, we deliver 
-              accuracy you can count on.
-            </p>
+  A legacy of trust beginning in 1950 as India's first beam scale manufacturer. 
+  Today, Manish Scale continues to set the standard for quality, precision, 
+  and durability in weighing solutions across the nation.
+</p>
             <div className="flex gap-3">
               <a 
                 href="#" 
@@ -254,7 +254,7 @@ const badges = [
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-gray-500 text-sm text-center md:text-left">
               © {new Date().getFullYear()} <span className="text-blue-400">Manish Scale</span>. All rights reserved. 
-              <span className="hidden md:inline"> | Precision Weighing Since 1952</span>
+              <span className="hidden md:inline"> | A Legacy of Trust Since 1950</span>
             </p>
             <div className="flex flex-wrap justify-center gap-4 md:gap-6 text-sm">
               <Link to="/privacy" className="text-gray-500 hover:text-white transition-colors">

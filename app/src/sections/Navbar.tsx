@@ -160,7 +160,7 @@ export function Navbar() {
                   <span className="text-slate-800">Manish</span>
                   <span className="text-slate-600"> Scale</span>
                 </h1>
-                <p className="text-xs text-slate-500 -mt-0.5 tracking-wider">PRECISION WEIGHING SINCE 1952</p>
+                <p className="text-xs text-slate-500 -mt-0.5 tracking-wider uppercase">Where trust carries weight</p>
               </div>
             </Link>
 

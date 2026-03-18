@@ -42,7 +42,7 @@ export function Hero() {
   }, []);
 
   const stats = [
-    { icon: Award, value: 65, suffix: '+', label: 'Years Experience' },
+    { icon: Award, value: 70, suffix: '+', label: 'Years Experience' },
     { icon: Users, value: 50, suffix: 'K+', label: 'Happy Customers' },
     { icon: Globe, value: null, suffix: ' All Over India', label: 'Service Coverage' },
     { icon: TrendingUp, value: 99, suffix: '.9%', label: 'Accuracy Rate' }
@@ -121,7 +121,7 @@ export function Hero() {
               transition={{ duration: 0.6, delay: 0.4 }}
               className="text-xl md:text-2xl text-slate-600 mb-4 font-light"
             >
-              Precision You Can Trust
+              Where trust carries weight
             </motion.p>
 
             {/* Description */}
@@ -131,9 +131,9 @@ export function Hero() {
               transition={{ duration: 0.6, delay: 0.45 }}
               className="text-lg text-slate-600 mb-8 max-w-xl"
             >
-              From micro precision jewelry scales to heavy-duty industrial platforms, 
-              we manufacture premium weighing solutions trusted by over 50,000+ businesses 
-              across India since 1952.
+              Carrying forward a legacy that began in 1950 with India's first manufacturer of beam scales. 
+              Today, we deliver premium weighing solutions trusted by businesses across India with 
+              over seven decades of traditional expertise and modern precision.
             </motion.p>
 
             {/* Category Pills */}
